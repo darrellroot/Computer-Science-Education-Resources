@@ -44,10 +44,14 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ## Chapter 4: Character strings and formatted input/output
 
+### Topics covered: strlen(), const, strings (intro), scanf, printf, #define
+
 * Grasshopper - Terminal game move function https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
 * Take the Derivative https://www.codewars.com/kata/5963c18ecb97be020b0000a2
 
 ## Chapter 5: Operators, expressions, and statements
+
+### Topics covered: while, typedef, math operators (including modulus), compound statements, automatic type conversions, typecasts, functions that use arguments
 
 * Quarter of the year https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
 * Opposites Attract https://www.codewars.com/kata/555086d53eac039a2a000083
@@ -64,7 +68,7 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ## Chapter 6: Control statements, looping
 
-# Topics covered: For, while, do, inequality operators, do/while, arrays (introduction), writing functions that return values
+### Topics covered: For, while, do, inequality operators, do/while, arrays (introduction), writing functions that return values
 
 * Student's Final Grade https://www.codewars.com/kata/5ad0d8356165e63c140014d4
 * Exclusive "or" (xor) Logical Operator https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c
@@ -72,6 +76,10 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 * Count Odd Numbers below n https://www.codewars.com/kata/59342039eb450e39970000a6
 * Grasshopper - Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 * Is he gonna survive? https://www.codewars.com/kata/59ca8246d751df55cc00014c
+
+## Chapter 7: C Control statements, branching, and jumps
+
+### Topics covered: If-else, switch, continue, break, case, default, goto, logical and, logical or, conditional operator, putchar(), getchar(), <type.h>, nesting if-else, character analysis (islower() etc).
 
 
 
