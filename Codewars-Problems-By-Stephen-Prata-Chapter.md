@@ -16,13 +16,13 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 # Topics covered: assignment, main(), printf(), integers, comments
 
-BASIC: Making Six Toast https://www.codewars.com/kata/5834fec22fb0ba7d080000e8
-Get Nth Even Number https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
-Multiply https://www.codewars.com/kata/50654ddff44f800200000004
-Third Angle of a Triangle https://www.codewars.com/kata/5a023c426975981341000014
-Function 2 - squaring an argument https://www.codewars.com/kata/523b623152af8a30c6000027
-You Can't Code Under Pressure #1 https://www.codewars.com/kata/53ee5429ba190077850011d4
-Beginner Series #2 Clock https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+* BASIC: Making Six Toast https://www.codewars.com/kata/5834fec22fb0ba7d080000e8
+* Get Nth Even Number https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
+* Multiply https://www.codewars.com/kata/50654ddff44f800200000004
+* Third Angle of a Triangle https://www.codewars.com/kata/5a023c426975981341000014
+* Function 2 - squaring an argument https://www.codewars.com/kata/523b623152af8a30c6000027
+* You Can't Code Under Pressure #1 https://www.codewars.com/kata/53ee5429ba190077850011d4
+* Beginner Series #2 Clock https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
 
 ## Chapter 3: Data and C
 
