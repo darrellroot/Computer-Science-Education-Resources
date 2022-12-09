@@ -4,7 +4,7 @@
 
 Codewars sorts problems by difficulty.  8kyu problems are the easiest.  But this sorting is not specific to the programming language.  In particular, C students learn dynamic memory allocation late in their first semester.  Assigning introductory C students to to "easy 8kyu Codewars problems" is problematic.
 
-This document sorts all 180 8kyu Codewars problems by chapter in Stephen Prata's "C Primer Plus" book.
+This document sorts all 180 8kyu Codewars problems by chapter in Stephen Prata's "C Primer Plus" book.  I _roughly_ sort problems by difficulty within each chapter list (easiest first).
 
 If you are using this list to assign problems to students, I recommend giving the students the goal of solving a subset of the problems they can theoretically solve.  For example, I believe seven problems are solvable by students after reading chapter 2 of the Stephen Prata book.  Your assignment could be for the students to solve any three of them before moving onto chapter 3.
 
