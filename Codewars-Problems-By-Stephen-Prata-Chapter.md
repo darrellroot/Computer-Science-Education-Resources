@@ -81,5 +81,43 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ### Topics covered: If-else, switch, continue, break, case, default, goto, logical and, logical or, conditional operator, putchar(), getchar(), <type.h>, nesting if-else, character analysis (islower() etc).
 
+* L1: Set Alarm https://www.codewars.com/kata/568dcc3c7f12767a62000038
+* Grasshopper - If/else syntax debug https://www.codewars.com/kata/57089707fe2d01529f00024a
+* Return Negative https://www.codewars.com/kata/55685cd7ad70877c23000102
+* Alan Partridge II - Apple Turnover https://www.codewars.com/kata/580a094553bd9ec5d800007d
+* Check same case https://www.codewars.com/kata/5dd462a573ee6d0014ce715b
+* Area or Perimeter https://www.codewars.com/kata/5ab6538b379d20ad880000ab
+* What's the real floor? https://www.codewars.com/kata/574b3b1599d8f897470018f6
+* Will there be enough space? https://www.codewars.com/kata/5875b200d520904a04000003
+* Even or Odd https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+* Grasshopper - Grade book https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+* Simple multiplication https://www.codewars.com/kata/583710ccaa6717322c000105
+* Convert a Boolean to a String https://www.codewars.com/kata/551b4501ac0447318f0009cd
+* Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/53369039d7ab3ac506000467
+* Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
+* Transportation on vacation https://www.codewars.com/kata/568d0dd208ee69389d000016
+* Expressions Matter https://www.codewars.com/kata/5ae62fcf252e66d44d00008e
+* Closest elevator https://www.codewars.com/kata/5c374b346a5d0f77af500a5a
+* Get Planet Name By ID https://www.codewars.com/kata/515e188a311df01cba000003
+* Basic Mathematical Operations https://www.codewars.com/kata/57356c55867b9b7a60000bd7
+* Find Nearest square number https://www.codewars.com/kata/5a805d8cafa10f8b930005ba
+
+## Chapter 8: Character input/output and input validation
+
+### Topics covered: input, output, buffered vs unbuffered input, simulating end-of-file from the keyboard, pipes and redirection, user interface
+
+* Parse nice int from char problem https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1
+* Convert a String to a Number! https://www.codewars.com/kata/544675c6f971f7399a000e79
+
+## Chapter 9: Functions
+
+### Topics covered: Return, address, * indirection operator, functions, arguments, return values, function types, ANSI C prototypes, recursion
+
+* The 'if' function https://www.codewars.com/kata/54147087d5c2ebe4f1000805
+
+## Chapter 10: Arrays and pointers
+
+### Topics covered: static, &, * indirection operator, arrays, pointers and arrays, writing functions that process arrays, two-dimensional arrays
+
 
 
