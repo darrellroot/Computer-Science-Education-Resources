@@ -42,4 +42,36 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 * Calculate BMI https://www.codewars.com/kata/57a429e253ba3381850000fb
 * Pillars https://www.codewars.com/kata/5bb0c58f484fcd170700063d
 
+## Chapter 4: Character strings and formatted input/output
+
+* Grasshopper - Terminal game move function https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
+* Take the Derivative https://www.codewars.com/kata/5963c18ecb97be020b0000a2
+
+## Chapter 5: Operators, expressions, and statements
+
+* Quarter of the year https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+* Opposites Attract https://www.codewars.com/kata/555086d53eac039a2a000083
+* Century From Year https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+* Is n divisible by x and y? https://www.codewars.com/kata/5545f109004975ea66000086
+* Simple Fun #1: Seats in Theater https://www.codewars.com/kata/588417e576933b0ec9000045
+* Plural https://www.codewars.com/kata/52ceafd1f235ce81aa00073a
+* Holiday VIII - Duty Free https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
+* Beginner Series #4 Cockroach https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
+* Area of a Square https://www.codewars.com/kata/5748838ce2fab90b86001b1a
+* Twice as old https://www.codewars.com/kata/5b853229cfde412a470000d0
+* Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
+* Is it even? https://www.codewars.com/kata/555a67db74814aa4ee0001b5
+
+## Chapter 6: Control statements, looping
+
+# Topics covered: For, while, do, inequality operators, do/while, arrays (introduction), writing functions that return values
+
+* Student's Final Grade https://www.codewars.com/kata/5ad0d8356165e63c140014d4
+* Exclusive "or" (xor) Logical Operator https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c
+* Compare within margin https://www.codewars.com/kata/56453a12fcee9a6c4700009c
+* Count Odd Numbers below n https://www.codewars.com/kata/59342039eb450e39970000a6
+* Grasshopper - Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030
+* Is he gonna survive? https://www.codewars.com/kata/59ca8246d751df55cc00014c
+
+
 
