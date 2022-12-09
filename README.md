@@ -1,6 +1,6 @@
 # Computer Science Education Resources
 
-This is my repository for training materials I created for Computer Science.  I welcome pull requests with submissions.
+This is my repository for training materials I created for teaching Computer Science.  I welcome pull requests with submissions.
 
 As of December 2022, I have two main resources:
 
