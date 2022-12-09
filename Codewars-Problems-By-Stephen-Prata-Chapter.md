@@ -1,4 +1,4 @@
-### Codewars 8kyu Problems by "C Primer Plus" by Stephen Prata Chapter
+# Codewars 8kyu Problems by "C Primer Plus" by Stephen Prata Chapter
 
 ## Purpose
 
@@ -14,7 +14,7 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ## Chapter 2: Introducing C
 
-# Topics covered: assignment, main(), printf(), integers, comments
+### Topics covered: assignment, main(), printf(), integers, comments
 
 * BASIC: Making Six Toast https://www.codewars.com/kata/5834fec22fb0ba7d080000e8
 * Get Nth Even Number https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
@@ -26,7 +26,7 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ## Chapter 3: Data and C
 
-# Topics covered: int, short, long, unsigned, char, float, double, _Bool, _Complex, _Imaginary
+### Topics covered: int, short, long, unsigned, char, float, double, _Bool, _Complex, _Imaginary
 
 
 
