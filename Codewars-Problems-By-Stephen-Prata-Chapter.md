@@ -28,5 +28,18 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ### Topics covered: int, short, long, unsigned, char, float, double, _Bool, _Complex, _Imaginary
 
+* Incorrect division method https://www.codewars.com/kata/54d1c59aba326343c80000e7
+* Opposite number https://www.codewars.com/kata/56dec885c54a926dcd001095
+* Volume of a Cuboid https://www.codewars.com/kata/58261acb22be6e2ed800003a
+* Grasshopper - Messi goals function https://www.codewars.com/kata/55f73be6e12baaa5900000d4
+* Total pressure calculation https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a
+* Miles per gallon to kilometers per liter https://www.codewars.com/kata/557b5e0bddf29d861400005d
+* For Twins: 2. Math operations https://www.codewars.com/kata/59c287b16bddd291c700009a
+* Grasshopper - Check for factor https://www.codewars.com/kata/55cbc3586671f6aa070000fb
+* Thinkful - Number Drills: Blue and red marbles https://www.codewars.com/kata/5862f663b4e9d6f12b00003b
+* get character from ASCII Value https://www.codewars.com/kata/55ad04714f0b468e8200001c
+* Count the number of cubes with paint on https://www.codewars.com/kata/5763bb0af716cad8fb000580
+* Calculate BMI https://www.codewars.com/kata/57a429e253ba3381850000fb
+* Pillars https://www.codewars.com/kata/5bb0c58f484fcd170700063d
 
 
