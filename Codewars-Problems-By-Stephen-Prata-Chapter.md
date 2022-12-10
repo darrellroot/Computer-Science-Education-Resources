@@ -1,4 +1,4 @@
-# Codewars 8kyu Problems by "C Primer Plus" by Stephen Prata Chapter
+# Codewars 8kyu Problems by Stephen Prata's "C Primer Plus" Chapter
 
 ## Purpose
 
