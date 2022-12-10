@@ -190,5 +190,42 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 * Abbreviate a Two Word Name https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 * Sum The Strings https://www.codewars.com/kata/5966e33c4e686b508700002d
 
+## Chapter 12: Storage classes, linkage, and memory management
+
+### Topics covered: Auto, extern, static, register, const, volatile, restricted, _Thread_local, _Atomic, rand(), srand(), time(), malloc(), calloc(), free(), determining scope and lifetime of a variable, designing more complex programs
+
+* Convert a Number to a String! https://www.codewars.com/kata/5265326f5fda8eb1160004c8
+* Reverse List Order https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b
+* Are You Playing Banjo? https://www.codewars.com/kata/53af2b8861023f1d88000832
+* Reversed Strings https://www.codewars.com/kata/5168bb5dfe9a00b126000018
+* Find the position! https://www.codewars.com/kata/5808e2006b65bff35500008f
+* If you can't sleep, just count sheep!! https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
+* Beginner - Lost Without a Map https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+* Switch it Up! https://www.codewars.com/kata/5808dcb8f0ed42ae34000031
+* String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+* Keep up the hoop https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
+* Coding 3min : Jumping Dutch act https://www.codewars.com/kata/570bcd9715944a2c8e000009
+* Find the Difference in Age between Oldest and Youngest Family Members https://www.codewars.com/kata/5720a1cb65a504fdff0003e2
+* Generate range of integers https://www.codewars.com/kata/55eca815d0d20962e1000106
+* Short Long Short https://www.codewars.com/kata/50654ddff44f800200000007
+* Do I get a bonus? https://www.codewars.com/kata/56f6ad906b88de513f000d96
+* Hello, Name or World! https://www.codewars.com/kata/57e3f79c9cb119374600046b
+* Multiplication table for number https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce
+* DNA to RNA Conversion https://www.codewars.com/kata/5556282156230d0e5e000089
+* altERnaTIng cAsE <=> ALTerNAtiNG CaSe https://www.codewars.com/kata/56efc695740d30f963000557
+* Remove String Spaces https://www.codewars.com/kata/57eae20f5500ad98e50002c5
+* Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed
+* Count of positives / sum of negatives https://www.codewars.com/kata/576bb71bbbcf0951d5000044
+* A Needle in the Haystack https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
+* Find the Integral https://www.codewars.com/kata/59811fd8a070625d4c000013
+* Triple Trouble https://www.codewars.com/kata/5704aea738428f4d30000914
+* Return Two Highest Values in List https://www.codewars.com/kata/57ab3c09bb994429df000a4a
+* Sentence Smash https://www.codewars.com/kata/53dc23c68a0c93699800041d
+* Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string https://www.codewars.com/kata/57faf12b21c84b5ba30001b0
+* CSV representation of array https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036
+* Remove duplicates from list https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
+* Convert a string to an array https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
+* Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right https://www.codewars.com/kata/57faf7275c991027af000679
+
 
 
