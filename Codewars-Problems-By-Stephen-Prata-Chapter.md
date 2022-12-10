@@ -153,5 +153,42 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 * Enumerable Magic #1 - True for All? https://www.codewars.com/kata/54598d1fcbae2ae05200112c
 * Enumerable Magic #2 - True for Any? https://www.codewars.com/kata/54598e89cbae2ac001001135
 
+## Chapter 11: Character strings and string functions
+
+### Topics covered: gets(), gets_s(), fgets(), puts(), fputs(), strcat(), strncat(), strcmp(), strncmp(), strcpy(), strncpy(), sprintf(), strchr(), creating and using strings, <string.h>, using command-line arguments
+
+* Remove First and Last Character https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
+* How many lightsabers do you own? https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
+* Is the string uppercase? https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
+* Exclamation marks series #1: Remove an exclamation mark from the end of string https://www.codewars.com/kata/57fae964d80daa229d000126
+* Grasshopper - Personalized Message https://www.codewars.com/kata/5772da22b89313a4d50012f7
+* All Star Code Challenge #18 https://www.codewars.com/kata/5865918c6b569962950002a1
+* I love you, a little , a lot, passionately ... not at all https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
+* ASCII Total https://www.codewars.com/kata/572b6b2772a38bc1e700007a
+* Stringy Strings https://www.codewars.com/kata/563b74ddd19a3ad462000054
+* They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite? https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7
+* The Feast of Many Beasts https://www.codewars.com/kata/5aa736a455f906981800360d
+* Well of Ideas - Easy Version https://www.codewars.com/kata/57f222ce69e09c3630000212
+* Is this my tail? https://www.codewars.com/kata/56f695399400f5d9ef000af5
+* Return the day https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
+* Correct the mistakes of the character recognition software https://www.codewars.com/kata/577bd026df78c19bca0002c0
+* MakeUpperCase https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
+* Hex to Decimal https://www.codewars.com/kata/57a4d500e298a7952100035d
+* Simple validation of a username with regex https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023
+* Name Shuffler https://www.codewars.com/kata/559ac78160f0be07c200005a
+* Bin to Decimal https://www.codewars.com/kata/57a5c31ce298a7e6b7000334
+* Double Char https://www.codewars.com/kata/56b1f01c247c01db92000076
+* Remove exclamation marks https://www.codewars.com/kata/57a0885cbb9944e24c00008e
+* Is it a palindrome? https://www.codewars.com/kata/57a1fd2ce298a731b20006a4
+* String cleaning https://www.codewars.com/kata/57e1e61ba396b3727c000251
+* USD => CNY https://www.codewars.com/kata/5977618080ef220766000022
+* Exclamation marks series #2: Remove all exclamation marks from the end of sentence https://www.codewars.com/kata/57faece99610ced690000165
+* My head is at the wrong end! https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
+* Vowel remover https://www.codewars.com/kata/5547929140907378f9000039
+* Fake Binary https://www.codewars.com/kata/57eae65a4321032ce000002d
+* Get number from string https://www.codewars.com/kata/57a37f3cbb99449513000cd8
+* Abbreviate a Two Word Name https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
+* Sum The Strings https://www.codewars.com/kata/5966e33c4e686b508700002d
+
 
 
