@@ -119,5 +119,39 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 
 ### Topics covered: static, &, * indirection operator, arrays, pointers and arrays, writing functions that process arrays, two-dimensional arrays
 
+* How many stairs will Suzuki climb in 20 years? https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e
+* Find Maximum and Minimum Values of a List https://www.codewars.com/kata/577a98a6ae28071780000989
+* Sum Arrays https://www.codewars.com/kata/53dc54212259ed3d4f00071c
+* Find the smallest integer in the array https://www.codewars.com/kata/55a2d7ebe362935a210000b2
+* SpeedCode #2 - Array Madness https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1
+* Enumerable Magic - Does My List Include This? https://www.codewars.com/kata/545991b4cbae2a5fda000158
+* Reversed sequence https://www.codewars.com/kata/5a00e05cc374cb34d100000d
+* Sum of positive https://www.codewars.com/kata/5715eaedb436cf5606000381
+* Get the mean of an array https://www.codewars.com/kata/563e320cee5dddcf77000158
+* Counting sheep... https://www.codewars.com/kata/54edbc7200b811e956000556
+* Removing Elements https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
+* N-th Power https://www.codewars.com/kata/57d814e4950d8489720008db
+* Powers of 2 https://www.codewars.com/kata/57a083a57cb1f31db7000028
+* Array plus array https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
+* Count by X https://www.codewars.com/kata/5513795bd3fafb56c200049e
+* Square(n) Sum https://www.codewars.com/kata/515e271a311df0350d00000f
+* Difference of Volumes of Cuboids https://www.codewars.com/kata/58cb43f4256836ed95000f97
+* Calculate average https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
+* Invert values https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
+* Sum without highest and lowest number https://www.codewars.com/kata/576b93db1129fcf2200001e6
+* How good are you really? https://www.codewars.com/kata/5601409514fc93442500010b
+* Coefficients of the Quadratic Equation https://www.codewars.com/kata/5d59576768ba810001f1f8d6
+* Pythagorean Triple https://www.codewars.com/kata/5951d30ce99cf2467e000013
+* Convert number to reversed array of digits https://www.codewars.com/kata/5583090cbe83f4fd8c000051
+* Count the Monkeys! https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
+* Find the first non-consecutive number https://www.codewars.com/kata/58f8a3a27a5c28d92e000144
+* What is between? https://www.codewars.com/kata/55ecd718f46fba02e5000029
+* Sum of differences in array https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
+* Find Multiples of a Number https://www.codewars.com/kata/58ca658cc0d6401f2700045f
+* Total amount of points https://www.codewars.com/kata/5bb904724c47249b10000131
+* To square(root) or not to square(root) https://www.codewars.com/kata/57f6ad55cca6e045d2000627
+* Enumerable Magic #1 - True for All? https://www.codewars.com/kata/54598d1fcbae2ae05200112c
+* Enumerable Magic #2 - True for Any? https://www.codewars.com/kata/54598e89cbae2ac001001135
+
 
 
