@@ -227,5 +227,52 @@ This sorting is error-prone.  As of December 2022 this list should be considered
 * Convert a string to an array https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
 * Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right https://www.codewars.com/kata/57faf7275c991027af000679
 
+## Chapter 13: File input/output
 
+### Topics covered: fopen(), getc(), putc(), exit(), fclose(), fprintf(), fscanf(), fgets(), fputs(), rewind(), fseek(), ftell(), flush(), fgetpos(), fsetpos(), feof(), ferror(), ungetc(), setvbuf(), fread(), fwrite()
+
+No 8kyu Codewars problems cover file input/output.
+
+## Chapter 14: Structures and other data forms
+
+### Topics covered: struct, union, typdef, ->, . (accessing member of a struct), structure templates, typedef, unions, pointers to functions, enum
+
+* Thinkful - Logic Drills: Traffic light https://www.codewars.com/kata/58649884a1659ed6cb000072
+* Geometry Basics: Distance between points in 2D https://www.codewars.com/kata/58dced7b702b805b200000be
+* Rock Paper Scissors! https://www.codewars.com/kata/5672a98bdbdd995fad00000f
+* Define a card suit https://www.codewars.com/kata/5a360620f28b82a711000047
+* Points of Reflection https://www.codewars.com/kata/57bfea4cb19505912900012c
+* Enumerable Magic #4 - True for None? https://www.codewars.com/kata/545993ee52756d98ca0010e1
+* Parse float https://www.codewars.com/kata/57a386117cb1f31890000039
+
+## Chapter 15: Bit fiddling
+
+### Topics covered: ~, &, |^, <<, >>, &=, |=, bitwise operators, bit fields, _Alignas, _Alignof
+
+No 8kyu Codewars problems cover bit fiddling
+
+## Chapter 16: C preprocessor and the C library
+
+### Topics covered: #define, #include, #ifdef, #else, #endif, #ifndef, #if, #elif, #line, #error, #pragma, _Generic, _Noreturn, _Static_assert, function-like macros, conditional compilation, generic selection expression, C library and handy functions
+
+No 8kyu Codewars problems cover the C preprocessor
+
+## Chapter 17: Advanced data representation
+
+### Topics covered: Malloc, using C to represent a variety of data types, new algorithms, developing programs conceptually, abstract data types
+
+No 8kyu Codewars problems cover advanced data representation
+
+## 8kyu problems deemed inappropriate for an entry-level C class (for various reasons)
+
+* Help the Elite Squad of Brazilian forces BOPE https://www.codewars.com/kata/5ab52526379d20736b00000e
+* Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
+* 5 without numbers !! https://www.codewars.com/kata/59441520102eaa25260000bf
+* Gravity Flip https://www.codewars.com/kata/5f70c883e10f9e0001c89673
+* Welcome! https://www.codewars.com/kata/577ff15ad648a14b780000e7
+* Basic variable assignment https://www.codewars.com/kata/50ee6b0bdeab583673000025
+* Subtract the Sum https://www.codewars.com/kata/56c5847f27be2c3db20009c3
+* Function 1 - hello world https://www.codewars.com/kata/523b4ff7adca849afe000035
+* Evil or Odious https://www.codewars.com/kata/56fcfad9c7e1fa2472000034
+* Reverse list recursively https://www.codewars.com/kata/57a883cfbb9944a97c000088
 
